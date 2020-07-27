@@ -1,0 +1,5 @@
+com\tcs\xpl\inventory\InventoryConsumer\Config.class
+com\tcs\xpl\inventory\InventoryConsumer\InventoryConsumerApplication.class
+com\tcs\xpl\inventory\InventoryConsumer\InventoryConsumerService.class
+com\tcs\xpl\inventory\InventoryConsumer\Inventory.class
+com\tcs\xpl\inventory\InventoryConsumer\InventoryController.class
